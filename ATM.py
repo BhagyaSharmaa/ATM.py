@@ -130,7 +130,7 @@ if w ==2:
     print("total money in your account after the above deposit",{m+d})
 if w==3:
     print(f"Rs {e}/- amount of money has been withdrawn from your account.")
-    print(f"Your final balance after the above withdrawl transaction is Rs {m-e}/-")
+    print(f"Your final balance after the above transaction is Rs {m-e}/-")
 print(today)
 if r==1:
           print(u)
