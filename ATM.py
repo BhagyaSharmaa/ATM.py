@@ -114,7 +114,7 @@ y=("The following transaction was made by the user ~>",n)
 print("              ",y)
 u=(f"""            TERM ID: CHOD2445
                    
-                  LOCATION: CHANDIGARH - CHITKARA
+                  LOCATION: CHANDIGARH - CHITKARA UNIVERSITY
                   CARD NO. : 4568XXXXXXXX9076
                   Remaining balance in your account = {new_balance} 
             
