@@ -136,3 +136,5 @@ if r==1:
           print(u)
 if r==2:
     print("Got it! Thank you for saving paper..Thank you for using this ATM , Kindly rate our service on our website "www.chitkarabank.in")
+          print("thanku for visiting ")
+          
